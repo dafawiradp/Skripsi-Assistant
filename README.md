@@ -1,4 +1,4 @@
-# Skripsi Bahasa Assistant
+# Skripsi Assistant
 
 Repository panduan dan kumpulan *skills* untuk membantu GitHub Copilot melakukan penyuntingan dan peninjauan skripsi berbahasa Indonesia secara akademik, konsisten, dan berintegritas.
 
