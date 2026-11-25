@@ -1,0 +1,7 @@
+{
+  "files.eol": "\n",
+  "files.trimTrailingWhitespace": true,
+  "editor.wordWrap": "on",
+  "editor.rulers": [100],
+  "markdown.validate.enabled": true
+}
